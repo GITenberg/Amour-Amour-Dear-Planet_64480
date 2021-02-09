@@ -1,11 +1,16 @@
 _repo: Amour-Amour-Dear-Planet_64480
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64480-h/images/cover.jpg
 creator:
   author:
     agent_name: Clutter, Mark
     gutenberg_agent_id: '52921'
     url: http://www.gutenberg.org/2009/agents/52921
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64480#Amour-Amour-Dear-Planet
 gutenberg_issued: '2021-02-07'
 gutenberg_type: Text
 identifiers:
